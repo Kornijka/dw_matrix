@@ -7,7 +7,7 @@
 - **Day 4:** Simple ML model
 - **Day 5:** More advanced ML model
 
-### Part 1 ▦ Predicting car prices [2-6 March 2020]
+### Part 2 ▦ Predicting car prices [2-6 March 2020]
 - **Day 1:** Preparing data and environment
 - **Day 2:** Visualisation with PyPlot
 - **Day 3:** Dummy Model
