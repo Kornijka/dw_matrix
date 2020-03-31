@@ -13,3 +13,10 @@
 - **Day 3:** Dummy Model
 - **Day 4:** Boosting with XGBoost
 - **Day 5:** Parameter optimization with Hyperopt
+
+### Part 3 ▦ Predicting road signs [30 March - 3 April 2020]
+- **Day 1:** Preparing data and environment
+- **Day 2:** Exploring data
+- **Day 3:** 
+- **Day 4:** 
+- **Day 5:** 
