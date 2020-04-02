@@ -17,6 +17,6 @@
 ### Part 3 ▦ Predicting road signs [30 March - 3 April 2020]
 - **Day 1:** Preparing data and environment
 - **Day 2:** Exploring data
-- **Day 3:** 
-- **Day 4:** 
+- **Day 3:** Training simple CNN with TensorFlow
+- **Day 4:** Architecture engineering and simple data preprocessing
 - **Day 5:** 
