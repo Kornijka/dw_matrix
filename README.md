@@ -19,4 +19,4 @@
 - **Day 2:** Exploring data
 - **Day 3:** Training simple CNN with TensorFlow
 - **Day 4:** Architecture engineering and simple data preprocessing
-- **Day 5:** 
+- **Day 5:** Hyperparameter tuning with Hyperopt
